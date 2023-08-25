@@ -7,6 +7,7 @@ import Booking from "./components/Booking";
 import Gallery from "./components/Gallery";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
+import Test from "./components/Test";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <NavBar />
       <Hero />
       <Activities />
+      <Test />
       <Booking />
       <Gallery />
       <ContactForm />
